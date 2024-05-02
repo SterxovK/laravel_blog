@@ -28,8 +28,8 @@ DB_CONNECTION=sqlite
 В той же консоли для запуска сайта по адресу `http://localhost:8000` введите команды:
 
 `php artisan serve`
-'npm run dev'
-'php artisan queue:work'
+`npm run dev`
+`php artisan queue:work`
 
 Откройте сайт в браузере по адресу  `http://localhost:8000
 
